@@ -1,6 +1,8 @@
 ### UML 
 ![EstudioTaller1.png](EstudioTaller1.png)
 
+
+
 ### Tarea diagnóstico
 1. Objetivo:
 
